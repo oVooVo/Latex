@@ -1,5 +1,5 @@
 \NeedsTeXFormat{LaTeX2e}[1995/12/01]
-\ProvidesClass{exercise}[2016/28/04]
+\ProvidesClass{esheet}[2016/28/04]
 \LoadClass[10pt]{scrartcl}[1996/10/31]
 
 \RequirePackage{graphicx}
